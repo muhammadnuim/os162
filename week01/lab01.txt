@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 muhammad.nuim StafCS 4096 Sep 13 16:20 .
+drwx--x--x  4 muhammad.nuim StafCS 4096 Sep 13 16:14 ..
+drwxr-xr-x  8 muhammad.nuim StafCS 4096 Sep 13 16:17 .git
+-rw-r--r--  1 muhammad.nuim StafCS    0 Sep 13 16:20 lab01.txt
+-rw-r--r--  1 muhammad.nuim StafCS    7 Sep 10 08:15 README.md
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 22:08 SandBox
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 13 16:14 week00
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 10 08:24 week01
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 10 08:24 week02
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:54 week03
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:54 week04
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:54 week05
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:54 week06
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:55 week07
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:55 week08
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:55 week09
+drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:56 week10
+/home/fasilkom/mahasiswa/m/muhammad.nuim/os162/week01
