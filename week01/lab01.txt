@@ -17,3 +17,6 @@ drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:55 week08
 drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:55 week09
 drwxr-xr-x  2 muhammad.nuim StafCS 4096 Sep 12 21:56 week10
 /home/fasilkom/mahasiswa/m/muhammad.nuim/os162/week01
+Today is 
+Today is 
+Today is 13 Sep 2016 at 16:45:42
