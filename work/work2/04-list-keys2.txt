@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/m/muhammad.nuim/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/AAFB55BA 2016-09-20 [expires: 2017-03-19]
+uid                  Muhammad Nuim (Studying OS gives some new knowledges) <muhammad.nuim@ui.ac.id>
+sub   4096R/8834704F 2016-09-20 [expires: 2017-03-19]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+

@@ -1,0 +1,7 @@
+total 20
+drwxr-xr-x 2 muhammad.nuim StafCS 4096 Sep 20 15:32 .
+drwxr-xr-x 3 muhammad.nuim StafCS 4096 Sep 20 13:16 ..
+-rw-r--r-- 1 muhammad.nuim StafCS 1621 Sep 20 14:54 00-toc.txt
+-rw-r--r-- 1 muhammad.nuim StafCS 3158 Sep 20 14:54 01-public-osteam.txt
+-rw-r--r-- 1 muhammad.nuim StafCS    0 Sep 20 15:32 02-ls-al.txt
+-rw-r--r-- 1 muhammad.nuim StafCS  329 Sep 20 15:27 03-list-keys1.txt
