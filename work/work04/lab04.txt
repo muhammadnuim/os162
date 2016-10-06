@@ -1,0 +1,37 @@
+1. Global Variable vs local Variable
+	a. Perbedaan code dan output dari kedua program :
+	   code :
+	   - program 00-global-char menggunakan valible global untuk di panggil dalam void main
+	   - Program 01-local-char menggunakan valiable local yang hanya dipergunakan di dalam void main
+	   output :
+	     global variable dan local variable memiliki nilai yang berbeda
+	b. Karena Global variable adalah variable yang dapat di kenal oleh semua fungsi sehingga nomer variable global lebih sedikit agar mudah diproses oleh fungsi lain. Sedangkan local variable hanya dapat dipanggil oleh funsi yang terdapat local variable
+	c. - Global variable adalah variable yang dapat dikenal dan dipanggi oleh semua fungsi dan dapat digunakan selama program masih berjalan
+	   - Local Variable adalah variable yang hanya dikenal dan di panggil di fungsi dimana variable di definisikan dan jika fungsi telah selesai di eksekusi maka varible tersebut tidak dapat digunakan.
+	   referensi : http://genesisaffan.blogspot.co.id/2013/02/perbedaan-variabel-lokal-variabel.html
+
+2. Pointer Variable 
+	a. Perbedaan pointer variable dengan variable lainnya adalah 
+	   - pointer variable adalah variable yang bersifat dinamis dan dapat lebih fleksibel karena pointer variable tidak menunjuk terhadap nilai apapun dan tidak dapat diprediksi.
+	   - variable lainnya adalah variable yang bersifat statis karena berisi nilai yang sudah pasti tentang variable tersebut
+	b. Untuk menulis variabel pointer di c menggunakan tanda "*" dan untuk pointer to pointer varible menggunakan tanda "**".
+	   contoh : char a='n';
+		    char* b=&a; --> Pointer variable
+		    char** c=&b; --> Pointer to Pointer variable
+	c. Pointer variable adalah variable yang menyimpan alamat dari variable lain yang telah di tentukan untuk dapat menunjukan ke suatu alamat memori sehingga dapat diketahui dengan mudah.
+	  referensi : http://bhaktiaryudaprabawarto.blogspot.co.id/2014/11/pointer-pada-c.html
+
+3. I/O process
+	a. Flag Parameter open function digunakan untuk mengetahui file tersebut di open dengan cara apa .
+	   contoh : O_RDONLY	File di buka hanya untuk di baca
+	b. Mode parameter open function digunakan untuk memberikan set permission untuk file tersebut .
+	   contoh :S_IRUSR  00400 user hanya di perbolehkan untuk membaca file
+	c. open and close i/o process adalah suatu perintah dimana untuk me-request ke OS untuk membuka file dengan flag dan mode yang telah ditentukan oleh "file descriptor" 
+	   dan apabila kita telah selesai maka kita memberitahu ke OS bahwa kita telah dengan file descriptor yang kemudian file akan ditutup .
+	   referensi : http://web.eecs.utk.edu/~huangj/cs360/360/notes/Syscall-Intro/lecture.html
+
+4. program 54-write adalah program untuk membaca karakter string yang ada pada string1 dan string2 kemudian membuat file "demo-file5.txt" dan menuliskan kedalam file tersebut.
+
+5. program 59-readwrite adalah program untuk membaca semua file yang ada didalam direktori tersebut dan menulis ke dalam file "demo-file9.txt" sebanyak 100 kali.
+   Bisa dibilang program untuk mengukur kecepatan membaca dan menulis sebuah file secara bersamaan.
+ 

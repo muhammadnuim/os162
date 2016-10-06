@@ -1,0 +1,14 @@
+=============================================================
+varchr0: value =   a, address = 0x600e18
+varchr1: value =   b, address = 0x600e19
+varchr2: value =   c, address = 0x600e1a
+varchr3: value =   d, address = 0x600e1b
+ptrchr0: points to a, value   = 0x600e18,  address = 0x600e20
+ptrchr1: points to b, value   = 0x600e19,  address = 0x600e28
+ptrchr2: points to c, value   = 0x600e1a,  address = 0x600e30
+ptrchr3: points to d, value   = 0x600e1b,  address = 0x600e38
+ptrchr0: points to a, value   = 0x600e18,  address = 0x600e20,  address = 0x600e40
+ptrchr1: points to b, value   = 0x600e19,  address = 0x600e28,  address = 0x600e48
+ptrchr2: points to c, value   = 0x600e1a,  address = 0x600e30,  address = 0x600e50
+ptrchr3: points to d, value   = 0x600e1b,  address = 0x600e38,  address = 0x600e58
+=============================================================
