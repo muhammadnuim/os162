@@ -1,0 +1,7 @@
+program 06-memory.c
+
+- Dari program tersebut dapat dilihat informasi tentang kapasitas total memory dan SWAP 
+- Dapat melihat kapasitas memory dan SWAP  yang terpakai dan sisanya
+- Dapat melihat buffer dan cache memory
+- Dapat melihat proses apa saja yang berjalan dan kapasitas memory yg terpakai 
+- Setiap proses yang berjalan berisi informasi Process ID , Priority , Virtual Image yang dipakai , Resident size yang terpakai , Shared memory ,status dari proses yang ada , pemakaian CPU dan Pemakaian Memory 
