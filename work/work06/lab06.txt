@@ -1,0 +1,21 @@
+# Github Account: muhammadnuim
+
+1. - PID adalah nomer-nomer yang diberikan ke proses sebagai nomer id dari proses.
+   - PPID adalah PID dari proses yang memanggil suatu proses
+   - getpid() digunakan untuk mendapatkan nilai PID dari sebuah proses
+   - getppid() digunakan untuk mendapatkan nilai PID dari parent proses
+
+   * output dari fork() metod adalah menghasilkan suatu anak dari proses
+     output value berisi PID yang berbeda dengan PID induknya
+
+   - wait () : menghentikan proses dan menunggu hingga child proses berhenti.
+   - waitpid() : menghentikan proses dan menunggu child proses yang telah ditentukan berubah statusnya
+   - sleep : menghentikan proses hingga waktu yang telah di tentukan 
+
+   - fork() adalah metod yang digunakan untuk menduplikasi proses yang ada sehingga menghasilkan anak proses dengan PID yang berbeda
+     referensi : http://secretisfree.blogspot.co.id/2014/11/process-programming.html
+
+2. - procSatus adalah fungsi yang berfungsi untuk memanggil PID dan PPID dari setiap level (Proses) yang telah di fork
+   - levelFork adalah fungsi yang berfungsi untuk menghasilkan anak proses dari proses induk
+   - fflush(NULL) berfungsi untuk menghapus buffer yang ada didalam i/o
+     wait(NULL) berfungsi untuk menunggu hingga anak proses terminate 
