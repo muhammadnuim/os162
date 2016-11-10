@@ -1,0 +1,12 @@
+# Github Account : muhammadnuim
+
++ - 03-readwrite program adalah program untuk menentukan bahwa ketika writer ingin menulis maka writer harus menunggu hingga readers selesai membaca. Dan hanya 1 writer aja yang dapat menulis pada share file di saat bersamaan.
+  - 05-balap program adalah program untuk simulasi balapan dimana ada pembalap dan bandar . bandar akan nunggu hingga pembalap siap, setelah siap bandar akan memulai balapan , setiap pembalap akan mendapatkan waktu rehat secara acak dan yang akan mendapatkan waktu rehat paling cepat dia yang akan jadi juara. 
+
++ critical section adalah suatu kondisi ketika sebuah proses sedang dijalankan didalam critical section , maka tidak ada proses lain yang boleh dijalankan dalam critical section tersebut.
+  Biasanya critical section berada diantara sem_wait() dan sem_post().
+
++ fungsi mutex adalah untuk mengatasi agar tidak ada data yang dimanipulasi secara bersama yang dapat data menjadi tidak konsiten.
+  Dan apabila tidak menggunakan mutex maka data akan berubah-ubah sehingga data yang ada tidak konsisten.
+
+  
