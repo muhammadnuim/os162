@@ -1,0 +1,7 @@
+#Github Account : muhammadnuim
+ 
+1. 00-sever : ketika program dijalankan maka terminal yang menjalankan program ini akan menjadi server dan memasukkan portnya lalu terminal server ini akan menerima pesan dari client.
+
+2. 01-client : ketika program dijalankan maka terminal akan menjadi client dan client harus memasukkan ip sever dan port yang same dental server lalu diminta until mengirimkan pesan ke server.
+
+3. 02-clisvr : erika program dijalankan maka akan ada computer yang server dan juga sebagai client , dimana masing-masing komputer akan memasukkan IP yang ingin terhubung lalu ketika semua terhubung akan munch pesan “Hallo” pada terminal masing-masing
